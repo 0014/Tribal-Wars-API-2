@@ -1,0 +1,6 @@
+D:\Workspace\Tribalwars\Tribalwars.Api\bin\Debug\Tribalwars.Api.dll
+D:\Workspace\Tribalwars\Tribalwars.Api\bin\Debug\Tribalwars.Api.pdb
+D:\Workspace\Tribalwars\Tribalwars.Api\obj\Debug\Tribalwars.Api.dll
+D:\Workspace\Tribalwars\Tribalwars.Api\obj\Debug\Tribalwars.Api.pdb
+D:\Workspace\Tribalwars\Tribalwars.Api\obj\Debug\Tribalwars.Api.csprojResolveAssemblyReference.cache
+D:\Workspace\Tribalwars\Tribalwars.Api\obj\Debug\Tribalwars.Api.csproj.CoreCompileInputs.cache
